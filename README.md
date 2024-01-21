@@ -1,2 +1,3 @@
 # hello-world
-About me
+Hello, my name is **Nathan Caudill**
+
